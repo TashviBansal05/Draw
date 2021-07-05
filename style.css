@@ -1,0 +1,30 @@
+.background{
+    text-align: center;
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: red;
+    font-size: 40px;
+}
+span{
+    font-size: 30px;
+    
+
+}
+#canvas{
+    border: 10px;
+    background-color: seashell;
+    border-style: ridge;
+}
+input{
+    margin-right: 20px;
+    
+}
+button{
+    padding: 10px 42px;
+    background-color: rgb(55, 69, 80);
+    color: white;
+    font-size: 16px;
+}
